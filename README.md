@@ -2,6 +2,8 @@
 
 This repo has custom oh-my-zsh plugins to make the day to day works easier. I will keep adding new functionalities as I need those.
 
+Some useful links:
+- Oh-my-zsh [cheat sheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
 
 ## Plugins ##
 
